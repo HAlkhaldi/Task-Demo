@@ -20,7 +20,6 @@ D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\bin\Debug\EntityFramework.dll
 D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
 D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\bin\Debug\EntityFramework.xml
 D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
-D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\obj\Debug\TAG.DataAccess.csprojAssemblyReference.cache
 D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\obj\Debug\TAG.DataAccess.Migrations.InitialCreate.resources
 D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\obj\Debug\TAG.DataAccess.Migrations.InitialCreate2.resources
 D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\obj\Debug\TAG.DataAccess.Migrations.InitialCreate3.resources
@@ -29,3 +28,5 @@ D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\obj\Debug\TAG.DataAccess.csproj.
 D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\obj\Debug\TAG.DataAccess.csproj.CopyComplete
 D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\obj\Debug\TAG.DataAccess.dll
 D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\obj\Debug\TAG.DataAccess.pdb
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\bin\Debug\AutoMapper.dll
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\bin\Debug\AutoMapper.xml

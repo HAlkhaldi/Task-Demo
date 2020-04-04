@@ -172,7 +172,6 @@ D:\TAG Projects Tasks\TAG.WebAPI\TAG.WebAPI\bin\TAG.DataAccess.pdb
 D:\TAG Projects Tasks\TAG.WebAPI\TAG.WebAPI\bin\TAG.DataAccess.dll.config
 D:\TAG Projects Tasks\TAG.WebAPI\TAG.WebAPI\bin\TAG.DataServices.pdb
 D:\TAG Projects Tasks\TAG.WebAPI\TAG.WebAPI\bin\TAG.DataServices.dll.config
-D:\TAG Projects Tasks\TAG.WebAPI\TAG.WebAPI\bin\AutoMapper.pdb
 D:\TAG Projects Tasks\TAG.WebAPI\TAG.WebAPI\bin\AutoMapper.xml
 D:\TAG Projects Tasks\TAG.WebAPI\TAG.WebAPI\bin\EntityFramework.xml
 D:\TAG Projects Tasks\TAG.WebAPI\TAG.WebAPI\bin\EntityFramework.SqlServer.xml

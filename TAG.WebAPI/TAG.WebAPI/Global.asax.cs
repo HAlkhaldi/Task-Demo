@@ -6,6 +6,7 @@ using System.Web.Http;
 using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
+using TAG.WebAPI.Infrastructure;
 
 namespace TAG.WebAPI
 {
@@ -14,7 +15,7 @@ namespace TAG.WebAPI
         protected void Application_Start()
         {
             GlobalConfiguration.Configure(WebApiConfig.Register);
-           
+            AutomapperWebProfile.Run();
         }
     }
 }

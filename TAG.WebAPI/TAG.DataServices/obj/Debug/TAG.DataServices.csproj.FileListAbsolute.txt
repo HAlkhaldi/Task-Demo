@@ -28,3 +28,5 @@ D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataServices\obj\Debug\TAG.DataServices.csp
 D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataServices\obj\Debug\TAG.DataServices.csproj.CopyComplete
 D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataServices\obj\Debug\TAG.DataServices.dll
 D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataServices\obj\Debug\TAG.DataServices.pdb
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataServices\bin\Debug\AutoMapper.dll
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataServices\bin\Debug\AutoMapper.xml
