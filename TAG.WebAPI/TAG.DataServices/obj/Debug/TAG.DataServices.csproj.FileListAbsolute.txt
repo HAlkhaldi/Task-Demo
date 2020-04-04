@@ -1,0 +1,15 @@
+D:\MyProjects\TAG Projects\TAG.WebAPI\TAG.DataServices\bin\Debug\TAG.DataServices.dll.config
+D:\MyProjects\TAG Projects\TAG.WebAPI\TAG.DataServices\bin\Debug\TAG.DataServices.dll
+D:\MyProjects\TAG Projects\TAG.WebAPI\TAG.DataServices\bin\Debug\TAG.DataServices.pdb
+D:\MyProjects\TAG Projects\TAG.WebAPI\TAG.DataServices\bin\Debug\EntityFramework.dll
+D:\MyProjects\TAG Projects\TAG.WebAPI\TAG.DataServices\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyProjects\TAG Projects\TAG.WebAPI\TAG.DataServices\bin\Debug\TAG.DataAccess.dll
+D:\MyProjects\TAG Projects\TAG.WebAPI\TAG.DataServices\bin\Debug\TAG.DataAccess.pdb
+D:\MyProjects\TAG Projects\TAG.WebAPI\TAG.DataServices\bin\Debug\TAG.DataAccess.dll.config
+D:\MyProjects\TAG Projects\TAG.WebAPI\TAG.DataServices\bin\Debug\EntityFramework.xml
+D:\MyProjects\TAG Projects\TAG.WebAPI\TAG.DataServices\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyProjects\TAG Projects\TAG.WebAPI\TAG.DataServices\obj\Debug\TAG.DataServices.csprojAssemblyReference.cache
+D:\MyProjects\TAG Projects\TAG.WebAPI\TAG.DataServices\obj\Debug\TAG.DataServices.csproj.CoreCompileInputs.cache
+D:\MyProjects\TAG Projects\TAG.WebAPI\TAG.DataServices\obj\Debug\TAG.DataServices.csproj.CopyComplete
+D:\MyProjects\TAG Projects\TAG.WebAPI\TAG.DataServices\obj\Debug\TAG.DataServices.dll
+D:\MyProjects\TAG Projects\TAG.WebAPI\TAG.DataServices\obj\Debug\TAG.DataServices.pdb
