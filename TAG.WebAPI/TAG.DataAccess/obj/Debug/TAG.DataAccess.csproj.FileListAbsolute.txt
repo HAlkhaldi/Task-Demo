@@ -13,3 +13,19 @@ D:\MyProjects\TAG Projects\TAG.WebAPI\TAG.DataAccess\obj\Debug\TAG.DataAccess.dl
 D:\MyProjects\TAG Projects\TAG.WebAPI\TAG.DataAccess\obj\Debug\TAG.DataAccess.pdb
 D:\MyProjects\TAG Projects\TAG.WebAPI\TAG.DataAccess\obj\Debug\TAG.DataAccess.Migrations.InitialCreate2.resources
 D:\MyProjects\TAG Projects\TAG.WebAPI\TAG.DataAccess\obj\Debug\TAG.DataAccess.Migrations.InitialCreate3.resources
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\bin\Debug\TAG.DataAccess.dll.config
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\bin\Debug\TAG.DataAccess.dll
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\bin\Debug\TAG.DataAccess.pdb
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\bin\Debug\EntityFramework.dll
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\bin\Debug\EntityFramework.xml
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\obj\Debug\TAG.DataAccess.csprojAssemblyReference.cache
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\obj\Debug\TAG.DataAccess.Migrations.InitialCreate.resources
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\obj\Debug\TAG.DataAccess.Migrations.InitialCreate2.resources
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\obj\Debug\TAG.DataAccess.Migrations.InitialCreate3.resources
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\obj\Debug\TAG.DataAccess.csproj.GenerateResource.cache
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\obj\Debug\TAG.DataAccess.csproj.CoreCompileInputs.cache
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\obj\Debug\TAG.DataAccess.csproj.CopyComplete
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\obj\Debug\TAG.DataAccess.dll
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataAccess\obj\Debug\TAG.DataAccess.pdb

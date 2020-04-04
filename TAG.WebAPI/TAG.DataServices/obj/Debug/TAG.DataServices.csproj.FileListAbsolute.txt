@@ -13,3 +13,18 @@ D:\MyProjects\TAG Projects\TAG.WebAPI\TAG.DataServices\obj\Debug\TAG.DataService
 D:\MyProjects\TAG Projects\TAG.WebAPI\TAG.DataServices\obj\Debug\TAG.DataServices.csproj.CopyComplete
 D:\MyProjects\TAG Projects\TAG.WebAPI\TAG.DataServices\obj\Debug\TAG.DataServices.dll
 D:\MyProjects\TAG Projects\TAG.WebAPI\TAG.DataServices\obj\Debug\TAG.DataServices.pdb
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataServices\bin\Debug\TAG.DataServices.dll.config
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataServices\bin\Debug\TAG.DataServices.dll
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataServices\bin\Debug\TAG.DataServices.pdb
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataServices\bin\Debug\EntityFramework.dll
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataServices\bin\Debug\EntityFramework.SqlServer.dll
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataServices\bin\Debug\TAG.DataAccess.dll
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataServices\bin\Debug\TAG.DataAccess.pdb
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataServices\bin\Debug\TAG.DataAccess.dll.config
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataServices\bin\Debug\EntityFramework.xml
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataServices\bin\Debug\EntityFramework.SqlServer.xml
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataServices\obj\Debug\TAG.DataServices.csprojAssemblyReference.cache
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataServices\obj\Debug\TAG.DataServices.csproj.CoreCompileInputs.cache
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataServices\obj\Debug\TAG.DataServices.csproj.CopyComplete
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataServices\obj\Debug\TAG.DataServices.dll
+D:\TAG Projects Tasks\TAG.WebAPI\TAG.DataServices\obj\Debug\TAG.DataServices.pdb
